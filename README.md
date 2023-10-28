@@ -1,2 +1,2 @@
 # HTMLOdev
-HTML Ödev 2
+HTML Ödev2-Kişisel Sayfamızı Detaylandırmaya Devam Etmek
